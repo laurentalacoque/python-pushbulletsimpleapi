@@ -1,6 +1,10 @@
 # python-pushbulletsimpleapi
 A basic class for SMS and messaging using pushbullet v2 API
 
+To use this, you should install PushBullet on your phone and get an Access Token on [your account settings page|https://www.pushbullet.com/#settings/account].
+
+The access token is also referred to as "Api key"
+
 ## Usage
 
 ```python
